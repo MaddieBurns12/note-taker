@@ -1,1 +1,1 @@
-# Note Taker Starter Code
+The note taker allows you to efficiently take notes and save them for tasks that you need to complete!
